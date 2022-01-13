@@ -13,6 +13,9 @@ In `/search`, you'll find two pages of search, one for server side rendering and
 - Server side - http://localhost:3000/search-server-side  (Fetch data befor and render on server side)
 - Client side - http://localhost:3000/search-clinet-side  (Fetch the data as the page is rendered in the browser)
 
+## Preview:
+![alt text](https://github.com/hexaorigintech/JsTest/blob/main/public/product-search.png)
+
 Bonus Done: Overall style improved using tailwind css.
 
 ### Performance issues
